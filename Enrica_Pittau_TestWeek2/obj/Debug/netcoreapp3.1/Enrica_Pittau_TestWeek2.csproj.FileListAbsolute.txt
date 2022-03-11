@@ -1,0 +1,14 @@
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.csproj.AssemblyReference.cache
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.AssemblyInfoInputs.cache
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.AssemblyInfo.cs
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.csproj.CoreCompileInputs.cache
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.exe
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.deps.json
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.runtimeconfig.json
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.runtimeconfig.dev.json
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.dll
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\bin\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.pdb
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.dll
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.pdb
+C:\Users\Enrica\Desktop\Enrica_Pittau_TestWeek2\Enrica_Pittau_TestWeek2\obj\Debug\netcoreapp3.1\Enrica_Pittau_TestWeek2.genruntimeconfig.cache
